@@ -60,3 +60,5 @@ To conduct a comprehensive analysis of Blinkit's sales performance, customer sat
 
 
 Link: https://www.dropbox.com/scl/fi/pj1x4a42a5a63bapuh26k/Blinkit-sales-dashboard.pbix?rlkey=mxgex953adh08kyktkts0sgoz&st=h440pnlu&dl=0              
+
+![Blinkit sales](https://github.com/user-attachments/assets/ef481107-4831-45e1-baa0-44fcf79a5970)
